@@ -1,2 +1,2 @@
-# codeforces_800
+# codeforces
 cf 800 repo
