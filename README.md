@@ -1,2 +1,2 @@
 # codeforces
-cf 800 repo
+cf repo
